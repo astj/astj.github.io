@@ -1,0 +1,3 @@
+[submodule "modules/Hatena-Blog-Themes"]
+	path = modules/Hatena-Blog-Themes
+	url = git@github.com:astj/Hatena-Blog-Themes.git
